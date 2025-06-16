@@ -33,7 +33,7 @@ export default function Page() {
         className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
         rel="noopener noreferrer"
         target="_blank"
-        href="https://vercel.com/templates/next.js/portfolio-starter-kit"
+        href="https://github.com/sentinez"
       >
         <p className="h-7"><b>SENTINEZ S6Z</b></p>
       </a>
